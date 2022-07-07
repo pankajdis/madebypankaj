@@ -1,0 +1,3 @@
+this is first doc of my project/.S
+This one i want togo into commit2
+changed by Pankajas
